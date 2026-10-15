@@ -1,0 +1,6 @@
+{
+  "name": "NoteMind AI",
+  "description": "Production-grade AI study workspace for generating detailed notes, flashcards, summaries, and quizzes from text, PDFs, and lecture transcripts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
